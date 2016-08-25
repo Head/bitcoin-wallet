@@ -1,1 +1,1 @@
-module.exports = require('./lib/wallet.js')
+module.exports = require('./src/wallet.js')
